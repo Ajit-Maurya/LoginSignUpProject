@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-urh#r#nvlr94trt(7lq3&yx@!3r9563zkrk)tq(-l#k-bsw93#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['loginsignupproject-3wfz.onrender.com']
 
 
 # Application definition
